@@ -1,4 +1,4 @@
-# firstOccurence.js
+# firstOccurrence.js
 
 Searches recursively for the first text occurrence and wraps it with a given class name
 
@@ -54,4 +54,4 @@ firstOccurrence.removeClass(document.getElementById('demo'), 'blue');
     </table>
 ```
 
-See the [tests](http://jantimon.github.io/firstOccurence.js/test)
+See the [tests](http://jantimon.github.io/firstOccurrence.js/test/)
